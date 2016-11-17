@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weather_layout.xml",
+        "source": "H:\\CoolWeather1\\app\\src\\main\\res\\layout\\weather_layout.xml"
+    },
+    {
+        "merged": "H:\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_area.xml",
+        "source": "H:\\CoolWeather1\\app\\src\\main\\res\\layout\\choose_area.xml"
+    }
+]

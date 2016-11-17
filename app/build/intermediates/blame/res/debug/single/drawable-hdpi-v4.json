@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.png",
+        "source": "H:\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "H:\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "H:\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "H:\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "H:\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
